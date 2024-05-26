@@ -1,0 +1,5 @@
+csv==1.0  # Included in Python's standard library; no need to list in requirements.txt
+datetime==4.3  # Included in Python's standard library; no need to list in requirements.txt
+pytz==2020.5
+requests==2.25.1
+tabulate==0.8.7
